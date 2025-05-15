@@ -26,7 +26,7 @@ Build and compare three ensemble models, **Bagging, Random Forests, and Boosting
 - Trained a **random forest model** with tuned ```mtry``` value
 - Visualized feature importance using variable importance plot
 - Predicted outcomes on the dataset
-- Assessed classification accuracy via confusion matrix
+- Assessed classification accuracy via **confusion matrix**
 
 ### Business Takeaways
 - Opening price and seller rating are critical to auction success
