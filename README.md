@@ -8,3 +8,18 @@ Build and compare three ensemble models, **Bagging, Random Forests, and Boosting
 - **File:** eBayAuctions-lab14.csv
 - **Observations:** 1,972 auctions (May–June 2004)
 - **Target Variable:** ```Competitive.``` (1 = ≥2 bids, 0 = <2 bids)
+
+### Techniques
+- Data preprocessing & feature engineering
+- Train/test split
+- Model training: Bagging, Random Forest, Boosting
+- Evaluation: Accuracy, Confusion Matrix, ROC Curve
+- Feature importance visualization
+
+### Modeling Workflow
+1. Converting numeric variables to categorical variables
+
+### Business Takeaways
+- Opening price and seller rating are critical to auction success
+- Auctions that end mid-week (e.g., Wednesday) tend to be more competitive
+- Sellers can optimize auction parameters (e.g., pricing and end day) to increase bidding activity
