@@ -23,7 +23,7 @@ Build and compare three ensemble models, **Bagging, Random Forests, and Boosting
 - Generated predictions on the dataset
 - Evaluated performance using a confusion matrix
 #### 3. Random Forests
-- Trained a random forest model with tuned mtry value
+- Trained a **random forest model** with tuned ```mtry``` value
 - Visualized feature importance using variable importance plot
 - Predicted outcomes on the dataset
 - Assessed classification accuracy via confusion matrix
