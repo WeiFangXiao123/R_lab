@@ -17,7 +17,16 @@ Build and compare three ensemble models, **Bagging, Random Forests, and Boosting
 - Feature importance visualization
 
 ### Modeling Workflow
-1. Converting numeric variables to categorical variables
+#### 1. Converting numeric variables to categorical variables
+#### 2. Bagging
+- Trained a **bagging model** using all available predictors
+- Generated predictions on the dataset
+- Evaluated performance using a confusion matrix
+#### 3. Random Forests
+- Trained a random forest model with tuned mtry value
+- Visualized feature importance using variable importance plot
+- Predicted outcomes on the dataset
+- Assessed classification accuracy via confusion matrix
 
 ### Business Takeaways
 - Opening price and seller rating are critical to auction success
