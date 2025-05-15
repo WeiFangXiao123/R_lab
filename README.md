@@ -5,6 +5,6 @@ On eBay, not all auctions attract multiple bidders. Sellers want to know in adva
 Build and compare three ensemble models, **Bagging, Random Forests, and Boosting**, to predict whether an auction will be competitive (```Competitive.``` = 1) based on item, seller, and auction characteristics.ing
 
 ### Dataset
-- File: eBayAuctions-lab14.csv
-- Observations: 1,972 auctions (May–June 2004)
-- Target Variable: ```Competitive.``` (1 = ≥2 bids, 0 = <2 bids)
+- **File:** eBayAuctions-lab14.csv
+- **Observations:** 1,972 auctions (May–June 2004)
+- **Target Variable:** ```Competitive.``` (1 = ≥2 bids, 0 = <2 bids)
